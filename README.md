@@ -1,5 +1,7 @@
 # C.S. Lewis
 
+All epubs are wrapped in a .zip file to avoid GitHub download issues.
+
 Available:
 - Four Loves
 - On Stories
